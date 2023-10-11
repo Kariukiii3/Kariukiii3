@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kariukiii3
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Python and a software engineer at Electracka Africka ltd 
 - 📫 How to reach me gachaukariuki9@gmail.com
 
 <!---
