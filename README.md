@@ -2,6 +2,7 @@
 - 👀 I’m a passionate full-stack developer and an ICT support specialist
 - 🌱 I’m currently learning Python and a software engineer at Electracka Africka ltd 
 - 📫 How to reach me gachaukariuki9@gmail.com
+- check out my portfolio here : https://kariuki-gachauporfolio.vercel.app/
 
 <!---
 Kariukiii3/Kariukiii3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
