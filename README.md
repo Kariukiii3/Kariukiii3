@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kariukiii3
-- 👀 I’m interested in web development
+- 👀 I’m a passionate full-stack developer and an ICT support specialist
 - 🌱 I’m currently learning Python and a software engineer at Electracka Africka ltd 
 - 📫 How to reach me gachaukariuki9@gmail.com
 
